@@ -1,0 +1,468 @@
+# ninja log v5
+40	1610	7024552160000000	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.xcl	9b06b79498542345
+6921	7907	7024990168102447	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.pbi	eefee7965d768519
+2021	2119	7024552170000000	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.xcl	38d0696374c04d30
+31	1621	7024552160000000	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.xcl	f3e976c432e879a8
+4	829	7025029784529224	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/CAN_part0.pbi	278012f5a5d74289
+1629	1758	7024552170000000	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.xcl	adfbf72c03e788ca
+1651	1771	7024552170000000	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.xcl	ecc74c3915051b25
+8	1632	7024552160000000	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Application/User/Core/main.xcl	2e2846343e45c8bb
+1862	4223	7025029182913497	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/CAN.pbw	af64abae93d22d2b
+34	1644	7024552160000000	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Application/User/Core/stm32f4xx_it.xcl	6bab61a456204ca6
+1640	1737	7024552170000000	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_can.xcl	a8fe26a93df91ea2
+6907	7880	7024990167833147	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.pbi	72cbdd76bd5cde25
+1616	1747	7024552170000000	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.xcl	1a776a7b162344c4
+1766	1857	7024552170000000	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.xcl	8c2d91dc4bf1744d
+1744	1840	7024552170000000	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.xcl	1fd158a4f69b8987
+1755	1848	7024552170000000	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.xcl	d9f679dc4adfccae
+67	1755	7024990106567492	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.pbi	d3603e9d89b4d9a9
+1778	1934	7024552170000000	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.xcl	e37c7bf53541cafb
+2	552	7024990443060407	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.pbi	1669ff70f5de631
+1844	1962	7024552170000000	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.xcl	8d8f12f090b7dc30
+1968	2071	7024552170000000	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.xcl	a85be1266bdc7aef
+1854	2015	7024552170000000	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.xcl	5c3bfb6ee83cbd46
+2146	2261	7024552170000000	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.xcl	7c1c304cb9d5ef67
+1862	2025	7024552170000000	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.xcl	21319432ee6ef601
+1738	3538	7024990124400034	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_can.pbi	63b738e66df86093
+65	1866	7024990107664589	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.pbi	287f7e56caaba616
+1947	2062	7024552170000000	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.xcl	b00c278a87659f63
+2067	2141	7024552170000000	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.xcl	e492ba9b24206b7e
+3	867	7025029344977004	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	8f210e0844071208
+3	1540	7024990300000000	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.xcl	5d100f3bf5d27d30
+265	4548	7024990332091605	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/CAN_part3.pbi	6951d121b393fa75
+69	1792	7024990106936506	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	2c19e909c712416e
+3542	5313	7024990142088157	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.pbi	d4d4d6704bc28756
+3499	5510	7024990143933224	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.pbi	6eeccedd52fc5daa
+834	1482	7025029791051778	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/CAN.pbd	f9cba1be406ae312
+5411	6904	7024990158065742	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.pbi	5617e5ab44583827
+1821	3495	7024990123881417	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.pbi	1ab9393252f91638
+1757	3516	7024990124180625	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.pbi	db63d30a23c7d85f
+1870	3544	7024990124429989	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.pbi	1372b26e41a89ee4
+5514	6888	7024990157746593	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.pbi	fd16bb802d160c5e
+3520	5406	7024990142965793	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.pbi	5ee6daea67a76beb
+5684	6917	7024990158195482	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.pbi	3a36ebe6b596b428
+3547	5679	7024990145499027	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.pbi	4df0b13646468e31
+6891	7801	7024990167025316	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.pbi	ead951d0a5715b0
+6873	7911	7024990168092465	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.pbi	7acd02bae53899b6
+555	1391	7024990451472060	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/CAN_part2.pbi	774853a88e78a479
+266	3219	7024990318572557	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/CAN_part1.pbi	36fb639fcca042b2
+3674	4007	7024990326715978	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/CAN_part4.pbi	844e9899bdfe3ce4
+1548	3671	7024990319879061	D:/Final_Project/CAN/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.pbi	8d715cca9af5dc14
+27	174	7025030760000000	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Application/User/Core/stm32f4xx_it.xcl	83f3f6cafd1112ee
+28	181	7025030760000000	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.xcl	bb2e699fd1fc93f
+3	191	7025030760000000	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Application/User/Core/main.xcl	82d9220624f9ca4a
+31	211	7025030760000000	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.xcl	d439acd568ad457c
+179	297	7025030760000000	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.xcl	f0265d4a9cbc11d0
+189	306	7025030760000000	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.xcl	c0250a3c57bf61fe
+198	316	7025030760000000	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.xcl	83de6c5454900f76
+219	325	7025030760000000	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_can.xcl	23412d6cde9e1785
+304	413	7025030760000000	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.xcl	77abb3d29f7a0af7
+314	424	7025030760000000	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.xcl	bcb75194d87a39e2
+323	437	7025030760000000	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.xcl	e9d25f54a47e5156
+332	447	7025030760000000	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.xcl	8b4e3fe163ccb052
+421	528	7025030760000000	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.xcl	4229eaf17af89e00
+431	537	7025030760000000	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.xcl	1c66002c90bd6be1
+445	547	7025030760000000	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.xcl	6dc859c836d5913f
+455	557	7025030760000000	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.xcl	43fdd560a6ece4c1
+535	671	7025030760000000	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.xcl	59338b7c94ce9095
+545	681	7025030760000000	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.xcl	963cebfb7810f447
+554	693	7025030770000000	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.xcl	5ff72e20bfc9524f
+564	702	7025030770000000	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.xcl	aea423ca52ce66a6
+709	800	7025030770000000	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.xcl	1780dbb2ddf78d32
+689	1672	7025030779920036	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	702a22cbe007f930
+680	1676	7025030779939965	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.pbi	c81e532a2e7046d1
+700	1684	7025030780039712	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	ee83b24d56d2dad2
+806	1801	7025030781216557	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.pbi	15ccd42055035c7b
+1678	2530	7025030788502228	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.pbi	c30e1053b69885a8
+1675	2539	7025030788601969	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_can.pbi	12c1922f07bc09ff
+1687	2620	7025030789409803	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.pbi	e5d01585875481e2
+1804	2723	7025030790432200	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.pbi	d09473df90921b8f
+2542	3520	7025030798401199	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.pbi	21ffc3900726a9b5
+2533	3552	7025030798720298	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.pbi	d7e85dcd2db12d99
+2623	3576	7025030798969640	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.pbi	2357f5cba28c6fae
+2726	3601	7025030799218976	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.pbi	75f5f6b484931e62
+3555	4684	7025030810041023	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.pbi	4b94031a38afa1ee
+3604	4716	7025030810370198	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.pbi	e1ae04ddbe9dd8ed
+3523	4726	7025030810459903	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.pbi	d790bd26dd7897ea
+3579	4765	7025030810848855	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.pbi	7ac7a10ffd63ea76
+4719	5615	7025030819368225	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.pbi	68d85a09d6871a5f
+4687	5713	7025030820330802	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.pbi	76de4d016b4c6c03
+4729	5780	7025030820999018	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.pbi	874c74ef73892010
+4767	5804	7025030821248355	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.pbi	d770d379a2067c56
+5618	6493	7025030828120510	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.pbi	2e89050ab4cb24ee
+5717	6802	7025030831242158	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN_part0.pbi	d0a3de7f29601ede
+5783	6860	7025030831820611	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN_part2.pbi	a9a59de661986239
+5807	6904	7025030832259436	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN_part1.pbi	733a6f2abe30d63c
+6807	7077	7025030833984843	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN_part4.pbi	919c500eaea19853
+6496	7451	7025030837729926	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN_part3.pbi	ea439afcf4e0f0eb
+7457	8107	7025030844287784	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN.pbd	667165ace3420d55
+8112	11015	7025030872673670	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN.pbw	7faf500cbad23962
+2	508	7025031885869685	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	ee83b24d56d2dad2
+511	1295	7025031893748597	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN_part0.pbi	d0a3de7f29601ede
+1301	1842	7025031899214546	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN.pbd	667165ace3420d55
+1846	4182	7025031921906015	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN.pbw	7faf500cbad23962
+2	422	7025040294339569	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	ee83b24d56d2dad2
+425	1163	7025040301681332	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN_part0.pbi	d0a3de7f29601ede
+1168	1750	7025040307617367	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN.pbd	667165ace3420d55
+1755	4075	7025040330268313	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN.pbw	7faf500cbad23962
+1	490	7025040386822117	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	ee83b24d56d2dad2
+492	1111	7025040393070675	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN_part0.pbi	d0a3de7f29601ede
+1115	1619	7025040398069519	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN.pbd	667165ace3420d55
+1623	3651	7025040417752684	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN.pbw	7faf500cbad23962
+1	409	7025046761541599	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	ee83b24d56d2dad2
+411	1048	7025046767946354	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN_part0.pbi	d0a3de7f29601ede
+1053	1564	7025046773101401	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN.pbd	667165ace3420d55
+1569	3757	7025046794346411	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN.pbw	7faf500cbad23962
+2	392	7025048811954677	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	ee83b24d56d2dad2
+395	1036	7025048818515665	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN_part0.pbi	d0a3de7f29601ede
+1040	1536	7025048823514482	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN.pbd	667165ace3420d55
+1539	3683	7025048844295820	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN.pbw	7faf500cbad23962
+2	472	7025062635604009	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	ee83b24d56d2dad2
+476	1181	7025062642633913	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN_part0.pbi	d0a3de7f29601ede
+1188	1704	7025062647944840	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN.pbd	667165ace3420d55
+1709	3957	7025062669658507	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN.pbw	7faf500cbad23962
+3	502	7025063833214314	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	ee83b24d56d2dad2
+505	1169	7025063839892232	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN_part0.pbi	d0a3de7f29601ede
+1173	1717	7025063845358004	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN.pbd	667165ace3420d55
+2	3057	7025063939337217	D:/Final_Project/CAN2/EWARM/CAN/BrowseInfo/CAN.pbw	7faf500cbad23962
+42	204	7025065330000000	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.xcl	5e570eeff72cdad7
+2	211	7025065330000000	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.xcl	74906910ece3a109
+40	218	7025065330000000	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/stm32f4xx_it.xcl	c9f52be616f5aadd
+44	229	7025065330000000	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.xcl	59fc867e89cb1e83
+209	292	7025065330000000	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.xcl	715517674e5f710c
+216	303	7025065330000000	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.xcl	1f2b648e62d1627b
+224	312	7025065330000000	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.xcl	4e61f819f3a87396
+235	322	7025065330000000	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_can.xcl	243cbf52fb4b4c44
+309	406	7025065330000000	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.xcl	24256b2dbc78b524
+300	415	7025065330000000	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.xcl	cb5643a390014e32
+320	425	7025065330000000	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.xcl	294061953184a79d
+328	452	7025065330000000	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.xcl	ee01725e1967963e
+423	536	7025065330000000	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.xcl	abb0298833b1c1fe
+413	545	7025065330000000	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.xcl	c884ad48f0744382
+432	554	7025065330000000	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.xcl	2521f60ad8fc56c0
+459	576	7025065330000000	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.xcl	831f0a3324b2770d
+542	654	7025065340000000	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.xcl	7daee71ea4c25ef7
+552	667	7025065340000000	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.xcl	30f4e4c61e48ef63
+561	679	7025065340000000	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.xcl	5a6ac96bd22fa96e
+586	705	7025065340000000	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.xcl	9aa60a11fd5abca0
+675	1552	7025065349158716	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	42e71601ac786de1
+661	1605	7025065349627355	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.pbi	fe324703a55c3f00
+712	1623	7025065349783571	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+686	1626	7025065349783571	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.pbi	ad6c56e5d7a96f66
+1554	1645	7025065340000000	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.xcl	fb1984b0dbd367f0
+1625	2570	7025065359312630	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.pbi	bd293eb502246fc
+1607	2576	7025065359312630	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.pbi	4f52d4e1f0fc88f2
+1629	2595	7025065359468801	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.pbi	85b26ac8e17ad8bf
+1651	2682	7025065360410102	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.pbi	70342a72e3cc5e0c
+2573	3452	7025065368064733	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.pbi	3c733300fe5f22aa
+2598	3477	7025065368377122	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.pbi	bfeb3471565cfe1e
+2580	3498	7025065368533295	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_can.pbi	f90e388aaad355fa
+2685	3535	7025065369001949	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.pbi	5ff3be2c693084f
+3501	4187	7025065375406687	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.pbi	5630d6521e51e3f4
+3455	4435	7025065377906093	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.pbi	2030ce65fcc3dfbe
+3480	4469	7025065378218529	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.pbi	181e15307eb8839f
+3538	4528	7025065378843416	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.pbi	7fa5c9c3541b85ce
+4190	5146	7025065385091921	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.pbi	8661f96c11e335ad
+4473	5277	7025065386341658	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.pbi	e5afbd03033fd07c
+4531	5305	7025065386654046	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.pbi	4ce82aeae2a3f7d9
+4438	5316	7025065386810258	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.pbi	1944f5b282be53a6
+5149	5898	7025065392590176	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.pbi	d8fa971798498f04
+5280	6198	7025065395558206	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+5308	6246	7025065396026875	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part2.pbi	9372b552b74f46ad
+5319	6477	7025065398370035	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part1.pbi	56ba3f5cac85829e
+6203	6513	7025065398682504	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part4.pbi	197c69cbd224cd7b
+5901	6838	7025065401962963	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part3.pbi	2bf4a92df8b664aa
+6843	7392	7025065407586657	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+7396	9521	7025065428207117	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	575	7025065485385880	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+578	1591	7025065495696277	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+1596	2277	7025065502569380	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+2281	4647	7025065525533051	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	419	7025065732212733	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+422	1058	7025065738617522	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+1063	1554	7025065743616643	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+352	4258	7025380942432821	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	575	7025381354321944	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+578	1752	7025381366038258	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+1757	2411	7025381372599232	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+2413	4497	7025381392906646	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	407	7025381502885854	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+409	1065	7025381509603038	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+1070	1529	7025381514133538	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+1534	3535	7025381533659854	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+1	391	7025381589327052	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+2	614	7025381658825554	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+619	1075	7025381663430171	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+1079	3085	7025381682694601	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	502	7025383527551565	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+504	1234	7025383534881630	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+1239	1822	7025383540765942	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+1825	4022	7025383562118815	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+1	443	7025390475062341	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+447	1029	7025390480926357	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+1034	1545	7025390486092879	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+1550	3662	7025390506647923	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	464	7025390865218943	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+467	1081	7025390871402399	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+1087	1548	7025390876070241	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+1552	3507	7025390895059466	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	420	7025391705322882	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+423	1064	7025391711765983	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+1069	1553	7025391716662896	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+1557	3516	7025391735681733	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	412	7025392143209700	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+416	1093	7025392150031774	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+1098	1567	7025392154763902	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+1571	3668	7025392175189313	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	491	7025392633976202	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+495	1094	7025392640020346	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+1098	1574	7025392644807243	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+1578	3641	7025392664853989	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	402	7025392720474951	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+405	1007	7025392726529083	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+1012	1497	7025392731425685	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+2	1994	7025392812823442	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	379	7025392867527497	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+381	979	7025392873541445	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+983	1444	7025392878188675	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+1447	3392	7025392896948517	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+3	468	7025393204777922	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+470	1121	7025393211320093	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+1125	1589	7025393215997593	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+1594	3668	7025393236173643	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	374	7025394096154450	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+377	986	7025394102288382	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+990	1479	7025394107215175	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+1484	3453	7025394126373652	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	416	7025394282573068	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+419	1047	7025394288890980	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+1051	1519	7025394293598389	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+1523	3452	7025394312348595	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+1	494	7025394419109962	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+499	1082	7025394425003877	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+1087	1554	7025394429711310	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+1558	3522	7025394448810553	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	382	7025394655128641	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+3	641	7025394715830455	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+646	1188	7025394721296186	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+2	2112	7025394858519542	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	475	7025435631445230	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+477	1565	7025435642366046	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+1569	2207	7025435648789186	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+2210	4376	7025435669743169	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	399	7025436027766000	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+402	1013	7025436033909525	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+1019	1494	7025436038716671	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+1498	3434	7025436057536056	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	389	7025436112858163	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+391	1024	7025436119221157	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+1029	1506	7025436124038616	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+1510	3689	7025436145281461	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	419	7025436552922025	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+422	1047	7025436559204843	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+1052	1515	7025436563882313	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+1518	3509	7025436583240562	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	402	7025437141857095	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+404	1026	7025437148100381	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+3	425	7025437204074965	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+428	2495	7025437224180908	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	453	7025438940668996	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+455	1121	7025438947351104	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+1126	1692	7025438953066622	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+1696	4018	7025438976374605	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	2361	7025438980214698	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+78	1016	7025521793847572	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+1018	2115	7025521804938715	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+2120	2773	7025521811499697	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+2776	5572	7025521838055962	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	462	7025521895235067	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+464	1140	7025521902108717	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+1144	1691	7025521907576242	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+1695	3955	7025521929601968	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+1	398	7025522035524869	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+401	1028	7025522041773364	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+1032	1507	7025522046615983	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+1509	3598	7025522066923441	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	526	7025522375151477	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+529	1149	7025522381400062	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+1153	1646	7025522386398882	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+1649	3638	7025522405769006	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	388	7025523064861177	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+391	993	7025523070953467	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+998	1475	7025523075796079	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+1478	3537	7025523095635520	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	440	7025523654898024	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+443	1031	7025523660834423	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+1035	1518	7025523665677059	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+2	429	7025523729518912	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+2	659	7025523791691824	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+664	1143	7025523796539581	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+2	1959	7025523874651161	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+2	485	7025525037088316	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+488	1152	7025525043805494	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+1157	1651	7025525048804320	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+1654	3720	7025525068956187	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+1	381	7025525275166506	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+383	974	7025525281102615	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+978	1477	7025525286101775	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+1480	3571	7025525306409181	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+3	454	7025525966249504	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	1e3df77833154163
+458	1132	7025525972970697	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	10f8461d122e2039
+1136	1618	7025525977969851	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	633f03f9f9f43114
+1622	3751	7025525998589699	D:/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	6f01eccf20ac5bff
+12	114	7026740360000000	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.xcl	1b2ae5da2bfc622
+13	135	7026740360000000	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.xcl	c455d4a8d88d4bbb
+7	145	7026740360000000	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.xcl	c92548137dc97e3b
+10	152	7026740360000000	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/stm32f4xx_it.xcl	23be6aad3280d685
+133	236	7026740360000000	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_can.xcl	ca174579836fe5ac
+143	249	7026740360000000	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.xcl	f0fef7f2c2b807e0
+151	259	7026740360000000	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.xcl	111478449a45d7e9
+158	268	7026740360000000	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.xcl	4a6cfa5a60beb654
+243	343	7026740360000000	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.xcl	32dc61b8cb943d66
+255	359	7026740360000000	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.xcl	cf62764fce5b0984
+267	393	7026740360000000	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.xcl	de5f1be6f08a5ddf
+304	432	7026740360000000	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.xcl	d1ce70f64bc4fb3a
+368	516	7026740360000000	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.xcl	ceb0bcf35e037256
+352	526	7026740360000000	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.xcl	df125f32ae854e52
+402	582	7026740360000000	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.xcl	4de19c2e075c6f68
+467	604	7026740360000000	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.xcl	f01b1753e3203fb4
+524	658	7026740360000000	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.xcl	111c4c396a0e2fc4
+535	668	7026740360000000	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.xcl	37779370a5ca5b27
+591	693	7026740360000000	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.xcl	9841b117f120b986
+612	709	7026740360000000	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.xcl	eaf0a668355a0789
+677	1588	7026740376269685	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.pbi	d17e6b87161dc2f4
+701	1600	7026740376399340	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	e2025d33d3c5cc8d
+716	1612	7026740376519020	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	9c225ce29052db44
+667	1666	7026740377057579	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.pbi	f3e1700e59840875
+1603	1687	7026740370000000	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.xcl	3842b4fb626bcb07
+1590	2550	7026740385904356	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_can.pbi	e13a0c78758ce20b
+1669	2560	7026740385994112	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.pbi	a7440923cd403937
+1616	2613	7026740386522701	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.pbi	d9fd7ed00bdf5611
+1694	2644	7026740386841846	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.pbi	cfc3deb93d086b3b
+2563	3446	7026740394860402	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.pbi	acc6bd1dcfffbefb
+2554	3450	7026740394900299	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.pbi	d52f5e7eea7912f2
+2647	3480	7026740395209478	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.pbi	53a630363a1373da
+2616	3485	7026740395219451	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.pbi	13941a5022b754d
+3449	4419	7026740404592164	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.pbi	75e2b8fea6a17edd
+3453	4444	7026740404841506	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.pbi	a8c776383a9759f5
+3483	4459	7026740404991116	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.pbi	d653f384d452028
+3488	4466	7026740405050938	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.pbi	25810eb518cfcad7
+4422	5106	7026740411458904	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.pbi	2fb42d755a0890dd
+4469	5194	7026740412346553	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.pbi	a77ffda34c78ce5e
+4461	5372	7026740414141746	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	870f447a043fb307
+4447	5400	7026740414411025	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part1.pbi	f00347e896740800
+5110	5852	7026740418909564	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.pbi	9b6a40a4b21fc1fb
+5197	5970	7026740420096391	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.pbi	e4f80ca9cfd40c6
+5378	6125	7026740421657435	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.pbi	c0b46c2c42acf1cd
+5854	6133	7026740421752296	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part4.pbi	52144cfcbd70a257
+5406	6339	7026740423806790	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part2.pbi	338483f411ef12da
+6128	6887	7026740429287235	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part3.pbi	cc439beccbdd08e8
+6894	7381	7026740434229133	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	8dfbbff1a322823d
+7386	9755	7026740457294589	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	584c74c92d587c69
+2	562	7026740514678746	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	e2025d33d3c5cc8d
+565	1237	7026740521439011	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	870f447a043fb307
+1243	1766	7026740526724619	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	8dfbbff1a322823d
+1771	4195	7026740550331482	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	584c74c92d587c69
+3	741	7026754296170311	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	e2025d33d3c5cc8d
+745	1715	7026754305926961	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	870f447a043fb307
+1723	2417	7026754312948876	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	8dfbbff1a322823d
+2422	5190	7026754339804147	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	584c74c92d587c69
+3	1010	7026754402570142	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	e2025d33d3c5cc8d
+1013	1973	7026754412210798	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	870f447a043fb307
+1981	2672	7026754419202347	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	8dfbbff1a322823d
+2678	5589	7026754447494064	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	584c74c92d587c69
+2	385	7026768499477997	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	e2025d33d3c5cc8d
+388	1043	7026768506039231	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	870f447a043fb307
+1050	1584	7026768511511367	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	8dfbbff1a322823d
+1588	3844	7026768533381514	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	584c74c92d587c69
+2	434	7026768689910455	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	e2025d33d3c5cc8d
+438	1084	7026768696471734	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	870f447a043fb307
+1089	1620	7026768701782671	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	8dfbbff1a322823d
+1626	3870	7026768723652567	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	584c74c92d587c69
+2	408	7026768779227266	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	e2025d33d3c5cc8d
+411	1089	7026768786100912	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	870f447a043fb307
+1096	1671	7026768791880796	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	8dfbbff1a322823d
+1675	3916	7026768813783988	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	584c74c92d587c69
+2	552	7026768870961736	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	e2025d33d3c5cc8d
+556	1216	7026768877613974	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	870f447a043fb307
+1222	1751	7026768882856989	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	8dfbbff1a322823d
+1756	4733	7026768911815275	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	584c74c92d587c69
+1	431	7026769068677198	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	e2025d33d3c5cc8d
+434	1082	7026769075135726	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	870f447a043fb307
+1087	1565	7026769079978365	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	8dfbbff1a322823d
+1570	4183	7026769105357715	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	584c74c92d587c69
+2	434	7026769413174930	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	e2025d33d3c5cc8d
+437	1069	7026769419579344	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	870f447a043fb307
+2	484	7026769475593829	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	8dfbbff1a322823d
+489	2615	7026769496375170	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	584c74c92d587c69
+2	498	7026779771463467	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	e2025d33d3c5cc8d
+502	1255	7026779779036799	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	870f447a043fb307
+1259	1835	7026779784816346	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	8dfbbff1a322823d
+1841	4125	7026779807031349	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	584c74c92d587c69
+248	570	7027968636183629	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.pbi	25810eb518cfcad7
+245	672	7027968637120674	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	e2025d33d3c5cc8d
+573	1204	7027968642431878	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part2.pbi	338483f411ef12da
+674	1301	7027968643525777	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	870f447a043fb307
+1304	1709	7027968647586945	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	8dfbbff1a322823d
+1712	3288	7027968662895847	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	584c74c92d587c69
+2	533	7028008875873592	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	e2025d33d3c5cc8d
+536	1325	7028008883683986	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	870f447a043fb307
+1330	1939	7028008889932527	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	8dfbbff1a322823d
+1943	4087	7028008910709234	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	584c74c92d587c69
+1	417	7028009016777749	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	e2025d33d3c5cc8d
+421	1120	7028009023807673	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	870f447a043fb307
+1125	1605	7028009028649957	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	8dfbbff1a322823d
+1609	3630	7028009048333224	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	584c74c92d587c69
+2	460	7028009155026603	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	e2025d33d3c5cc8d
+463	1123	7028009161744073	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	870f447a043fb307
+1128	1635	7028009166742629	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	8dfbbff1a322823d
+1639	3761	7028009187518970	D:/STM32F407_CAN/Final_Project/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	584c74c92d587c69
+28	300	7028103630000000	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.xcl	170d20fcf1282d5f
+38	322	7028103630000000	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.xcl	6de6694bc0948e87
+2	349	7028103630000000	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/stm32f4xx_it.xcl	49974e365b25c422
+33	382	7028103630000000	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.xcl	7f5d6b72deed5594
+302	425	7028103630000000	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.xcl	93a8e9cb89b179e4
+323	466	7028103630000000	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.xcl	c9bf82fcf9daac93
+350	498	7028103630000000	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.xcl	64fbbdaa19cb8369
+383	546	7028103630000000	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.xcl	e5f8e36a415e40eb
+426	571	7028103630000000	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_can.xcl	ac31d176552b9c28
+467	606	7028103630000000	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.xcl	d057f81ad8445e4e
+499	642	7028103630000000	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.xcl	c1a88b2cfd3cbce3
+547	684	7028103630000000	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.xcl	fb1f375f2cc96751
+572	719	7028103630000000	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.xcl	7003f54c6f13d9ea
+607	765	7028103630000000	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.xcl	b3ae739b7ca30e04
+642	808	7028103630000000	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.xcl	a73f2f11b531508a
+685	825	7028103630000000	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.xcl	d2a13067a13c4bfe
+720	871	7028103630000000	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.xcl	f3619a975bffbc6f
+766	911	7028103630000000	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.xcl	9620528e489e5e4f
+808	923	7028103630000000	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.xcl	b157b459a8a2a6e8
+826	939	7028103630000000	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.xcl	82bb070dce832833
+872	1711	7028103646197359	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	7ac7b14b60bf9495
+912	1730	7028103646376880	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_can.pbi	2b82e36d78cfc452
+923	1745	7028103646386857	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.pbi	ef2693cfb585d0c1
+940	1753	7028103646446686	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/main.pbi	3af7ad1cfa97c68c
+1731	1844	7028103640000000	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.xcl	5858b6ac02f8c69a
+1713	2312	7028103652201302	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.pbi	2e1b682abaefeda1
+1754	2339	7028103652480560	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.pbi	e67a85123a3d4b02
+1747	2346	7028103652520461	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.pbi	503293f5039786db
+1845	2416	7028103653248534	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.pbi	d13af10c1e7b0f86
+2341	2959	7028103658683970	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.pbi	272aa72daac5571d
+2347	2965	7028103658723869	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.pbi	192522e16e395e40
+2313	2972	7028103658693950	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.pbi	3b5c60673429691
+2417	3009	7028103659182640	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.pbi	8f470848c6471857
+2961	3484	7028103663929946	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.pbi	6f12cfd16d555967
+2973	3506	7028103664139390	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.pbi	d74f773d5554439d
+2967	3532	7028103664398706	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.pbi	3ea7bf79de2fb984
+3011	3552	7028103664618114	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.pbi	e3d2b24b1261d6f6
+3486	4074	7028103669824190	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.pbi	53d5524f0435a024
+3508	4131	7028103670312891	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.pbi	99aba5a23eedc728
+3533	4196	7028103670492404	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.pbi	8947053a76acaf06
+3554	4203	7028103670582211	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.pbi	fda77f35a0644b53
+4076	4735	7028103676436511	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.pbi	3cd00fb6d8f01d16
+4204	4876	7028103677872688	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/CAN_part3.pbi	13395385304a7ec6
+4132	4886	7028103677902605	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/CAN_part2.pbi	83facd90c57d7b5d
+4197	4915	7028103678261644	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/CAN_part1.pbi	e12dd8c9c018c8fa
+4878	5052	7028103679637969	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/CAN_part4.pbi	381ea5506053cdd2
+4736	5319	7028103682300841	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/CAN_part0.pbi	6effa9befe4dd7ae
+5320	5677	7028103685881651	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/CAN.pbd	d2442f06d542bed1
+5678	8116	7028103709566210	C:/Users/Tan Nguyen Tri/Desktop/HCL/OJT/finalProject/CAN3/EWARM/CAN/BrowseInfo/CAN.pbw	ff001d0563eb57c3

@@ -1,0 +1,15 @@
+"D:\Software_Embedded\arm\bin\armPROC.dll" 
+
+"D:\Software_Embedded\arm\bin\armSTLINK.dll" 
+
+"D:\STM32F407_CAN\Final_Project\CAN4\EWARM\CAN\Exe\CAN.out" 
+
+--plugin="D:\Software_Embedded\arm\bin\armbat.dll" 
+
+--device_macro="D:\Software_Embedded\arm/config/debugger/ST/STM32F4xx.dmac" 
+
+--flash_loader="D:\Software_Embedded\arm/config/flashloader/ST/FlashSTM32F4xxx.board" 
+
+
+
+
